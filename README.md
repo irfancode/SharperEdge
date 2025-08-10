@@ -1,4 +1,6 @@
 # 🌐 SharperEdge
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9228534a-07c5-4df1-a46e-966398f14587" />
+
 
 **SharperEdge** is a community-driven project to harden Microsoft Edge—mirroring the philosophy of BetterFox for Firefox—with modular profiles for privacy, performance, and security.
 
